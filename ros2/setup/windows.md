@@ -18,7 +18,7 @@ Unter Windows bietet das Windows Subsystem for Linux (WSL) die Möglichkeit, ein
 
 ### Hat die Entwicklung unter WSL auch Nachteile?
 
-Obwohl die Entwicklung einfacher ROS2 Anwendungen unserer Erfahrung nach ausreichend performant unter WSL funktioniert, könnten erweiterte Anwendungsbeispiele wie zum Beispiel verteilte ROS Knoten auf mehreren Systemen Anwender vor unverhältnismäßig hohen Konfigurationsaufwand stellen oder bei komplexen Simulationen unnötig zusätzlichen Berechnungsaufwand gerade für schwächere Systeme darstellen. In diesen Fällen ist eine native [Intallation von Linux](linux.md) empfehlenswert.
+Obwohl die Entwicklung einfacher ROS2 Anwendungen unserer Erfahrung nach ausreichend performant unter WSL funktioniert, könnten erweiterte Anwendungsbeispiele wie zum Beispiel verteilte ROS Knoten auf mehreren Systemen Anwender vor unverhältnismäßig hohen Konfigurationsaufwand stellen oder bei komplexen Simulationen unnötig zusätzlichen Berechnungsaufwand gerade für schwächere Systeme darstellen. In diesen Fällen ist eine native [Installation von Linux](linux.md) empfehlenswert.
 
 ## Windows Terminal und Powershell
 
